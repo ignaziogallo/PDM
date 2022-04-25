@@ -1,0 +1,47 @@
+[
+  {"title": "Presentazione del corso",
+   "topics": "- Presentazione del corso\n- Introduzione al sistema Ster (non fa parte del materiale didattico)\n- Questionario \"COSA MI ASPETTO DA QUESTO CORSO\" e analisi delle risposte.",
+   "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K00-Presentazione-corso.png",
+   "date": "22.02.2022"
+  },
+  {"title": "Introduzione",
+    "topics": "- Panoramica introduttiva agli argomenti principali trattati nel corso\n- Introduzione ad AndroidStudio e creazione di una prima App.",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K01-Introduzione.png",
+    "date": "25.02.2022"
+  },
+  {"title": "Hardware and Android Operative System",
+    "topics": "- Caratteristiche tipiche dell'hardware tipico dei disporitivi mobili.\n- Tecnologia RISC e CISC\n- Il Sistema Operativo Android.",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K02-hw_and_SO_Architecture.png",
+    "date": "01.03.2022"
+  },
+  {"title": "AndroidStudio",
+    "topics": "AndroidStudio.",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K03-AndroidStudio.png",
+    "date": "01.03.2022"
+  },
+  {"title": "GIT",
+    "topics": "Git come sistema di versioning sia indipendente che integrato in AndroidStudio",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K04-GIT.png",
+    "date": "01.03.2022"
+  },
+  {"title": "Gradle",
+    "topics": "- Ant, Maven e Gradle come tools di build automation.\n- Il linguaggio Groovy per la creazione di script di Gradle.\n- Esercizi su Gradle e Groovy.",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K05-Gradle.png",
+    "date": "04.03.2022"
+  },
+  {"title": "Kotlin",
+    "topics": "- Elementi di base del linguaggio Kotlin, compilatore e Virtual Machine\n- Esempi applicati alla realizzazione delle App Android",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K06-kotlin-1.png",
+    "date": "08.03.2022"
+  },
+  {"title": "Application",
+    "topics": "- Introduzione ed esempi di applicazioni Android, il file AndroidManifest.xml, Tasks e backstack",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K07-Application.png",
+    "date": "18.03.2022"
+  },
+  {"title": "Activity",
+    "topics": "- Activity e Intent.\n- Intent espliciti ed impliciti\n- startActivityForResults e registerActivityForResults\n- Ciclo di vita di una Activity\n- Esempi",
+    "image": "https://raw.githubusercontent.com/ignaziogallo/PDM/master/images/K08-Activity.png",
+    "date": "22.03.2022"
+  }
+]
